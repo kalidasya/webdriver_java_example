@@ -9,3 +9,5 @@ doc
 chromedriver.log
 testng.out.xml
 .DS_Store
+/.idea
+/*.iml

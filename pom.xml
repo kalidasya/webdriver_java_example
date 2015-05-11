@@ -77,6 +77,11 @@
 			<artifactId>jersey-client</artifactId>
 			<version>1.18.1</version>
 		</dependency>
+		<dependency>
+			<groupId>net.kanstren.osmo</groupId>
+			<artifactId>osmotester</artifactId>
+			<version>3.4.0</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<testSourceDirectory>src/test/java</testSourceDirectory>
